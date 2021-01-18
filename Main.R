@@ -36,6 +36,11 @@ source("analysis/point_graph.R")
 source("analysis/bar_point_graph.R")
 
 
+# 7 Source presentation document files. You need 'knitr' and rmarkdown packages.
+
+knitr::knit("github_document.Rmd")
+rmarkdown::render("pdf_document.Rmd")
+
 
 
 
