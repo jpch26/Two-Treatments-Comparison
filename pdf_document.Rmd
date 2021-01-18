@@ -216,6 +216,6 @@ barpoint_graph
 
 Maybe it doesn't seem to be a real change, but with more data bar plots will tend to hide the real distribution of your data. Click the next link to find more information: [#BarBarPlots!](https://thenode.biologists.com/barbarplots/photo/) 
 
-That's it! I think there is no better way to learn than learn by doing. Why don't you try to reproduce all this analysis by yourself? Try to use your own data! You can even clone the repository for this analysis and reproduce it step by step from scratch, just click the next link: [Simple Mean Analysis Repository](https://github.com/jpch26/simple_mean_analysis.git)  
+That's it! I think there is no better way to learn than learn by doing. Why don't you try to reproduce all this analysis by yourself? Try to use your own data! You can even clone the repository for this analysis and reproduce it step by step from scratch, just click the next link: [Simple Mean Analysis Repository](https://github.com/jpch26/Two-Treatments-Comparison)  
 
 Feel free to modify, improve or extend the code. It's all yours!  
