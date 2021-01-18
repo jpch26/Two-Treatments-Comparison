@@ -1,0 +1,19 @@
+/* Whole document: */
+body{
+  font-family: Times New Roman;
+  font-size: 14pt;
+}
+/* Headers */
+h1{
+  font-size: 20pt;
+}
+/* Headers */
+h2,h3{
+  font-size: 18pt;
+  font-style: inherit;
+}
+/* Headers */
+h4,h5,h6{
+  font-size: 15pt;
+  font-style: italic;
+}
