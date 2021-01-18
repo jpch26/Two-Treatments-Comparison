@@ -1,0 +1,12 @@
+
+	F test to compare two variances
+
+data:  weight by diet
+F = 3.2154, num df = 5, denom df = 5, p-value = 0.2257
+alternative hypothesis: true ratio of variances is not equal to 1
+95 percent confidence interval:
+  0.4499362 22.9785902
+sample estimates:
+ratio of variances 
+          3.215416 
+

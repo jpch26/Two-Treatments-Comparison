@@ -1,0 +1,12 @@
+
+	Welch Two Sample t-test
+
+data:  weight by diet
+t = 6.196, df = 7.8357, p-value = 0.0002837
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 2.658286 5.828380
+sample estimates:
+mean in group 1 mean in group 2 
+       23.09167        18.84833 
+
