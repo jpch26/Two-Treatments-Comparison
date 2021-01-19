@@ -9,6 +9,6 @@ explanation about the data analysis. Note that I didn't explain how I simulated
 the experimental data, but you can see the code on data_simulation.R
 
 If you have cloned this repository and want to run this analysis from scratch 
-first run era_all_outputs.R script and then run Main.R script.
+first run erase_all_outputs.R script and then run Main.R script.
 
 Juan Pablo Carreón Hidalgo (jpch_26@outlook.com)

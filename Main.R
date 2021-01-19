@@ -2,7 +2,7 @@
 # Main script to run the analysis -----------------------------------------
 
 # Preferably, before you run this script restart your R session: 
-# Ctrl+Shift+F10
+# Ctrl+Shift+F10 if you are using RStudio
 
 # Packages
 
