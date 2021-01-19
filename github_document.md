@@ -1,4 +1,4 @@
-R in the Lab: Simple Means Comparison
+R in the Lab: Two Treatments Comparison
 ================
 18/01/2021
 

@@ -1,5 +1,5 @@
 ---
-title: 'R in the Lab: Simple Means Comparison'
+title: 'R in the Lab: Two Treatments Comparison'
 date: 18/01/2021
 output: github_document
 always_allow_html: true
