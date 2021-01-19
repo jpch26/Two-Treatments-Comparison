@@ -1,6 +1,9 @@
 
 # Main script to run the analysis -----------------------------------------
 
+# Preferably, before you run this script restart your R session: 
+# Ctrl+Shift+F10
+
 # Packages
 
 library(dplyr)   # To summarize data
