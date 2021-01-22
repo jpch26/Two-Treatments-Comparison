@@ -10,9 +10,9 @@ randomly assign a different diet to each one. You will feed six mice
 with a diet containing the strange fat (diet 1) and the other six will
 eat a regular diet without any addition (diet 2).
 
-![Mouse experiment](images/experiment_small.jpg)
+![Experiment](images/experiment_small.jpg)
 
-After a week you measure and register the weight of each mouse, So your
+After a week you measure and register the weight of each mouse, so your
 data look like this:
 
 <table class=" lightable-classic-2" style='font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; margin-left: auto; margin-right: auto;'>
