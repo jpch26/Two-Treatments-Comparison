@@ -1,6 +1,5 @@
 R in the Lab: Two Treatments Comparison
 ================
-18/01/2021
 
 ### 1\. Problem
 
@@ -819,7 +818,7 @@ folder. You can click on it to see the results or type on your console:
 bar_graph
 ```
 
-![](github_document_files/figure-gfm/bar_graph%20output-1.png)<!-- -->
+![](C:/Users/jpch_/Desktop/DataAnalysis/data_analysis_portfolio/Two-Treatments-Comparison/document_presentation/github_document_files/figure-gfm/bar_graph%20output-1.png)<!-- -->
 
 R and RStudio allow us to be a bit creative and represent our data in
 other ways. The next code will made a point graph for each diet, with a
@@ -858,7 +857,7 @@ At the end the code will produce the next graph:
 point_graph
 ```
 
-![](github_document_files/figure-gfm/point_graph%20output-1.png)<!-- -->
+![](C:/Users/jpch_/Desktop/DataAnalysis/data_analysis_portfolio/Two-Treatments-Comparison/document_presentation/github_document_files/figure-gfm/point_graph%20output-1.png)<!-- -->
 
 `ggplot2` works like stacking layers, each layer containing a plot
 element. This enables to combine different types of graphs. The next
@@ -902,9 +901,9 @@ the `summary_table` data specified on the `ggplot()` function.
 barpoint_graph
 ```
 
-![](github_document_files/figure-gfm/bar_point_graph%20output-1.png)<!-- -->
+![](C:/Users/jpch_/Desktop/DataAnalysis/data_analysis_portfolio/Two-Treatments-Comparison/document_presentation/github_document_files/figure-gfm/bar_point_graph%20output-1.png)<!-- -->
 
-Maybe it doesn’t seem to be a real change, but with more data bar plots
+Maybe it doesn’t seem to be a real change, but in some cases bar plots
 will tend to hide the real distribution of your data. Click the next
 link to find more information:
 [\#BarBarPlots\!](https://thenode.biologists.com/barbarplots/photo/)
