@@ -40,8 +40,8 @@ source("analysis/bar_point_graph.R")
 
 # 7 Source presentation document files. You need 'rmarkdown' package.
 
-rmarkdown::render("github_document.Rmd")
-rmarkdown::render("pdf_document.Rmd")
+rmarkdown::render("github_document.Rmd", output_dir = "document_presentation")
+rmarkdown::render("pdf_document.Rmd", output_dir = "document_presentation")
 
 # 8 Session Info 
 
