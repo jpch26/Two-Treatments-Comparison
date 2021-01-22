@@ -14,4 +14,4 @@ you want.
 
 Juan Pablo Carreón Hidalgo  
 
-(jpch_26@outlook.com)
+jpch_26@outlook.com
