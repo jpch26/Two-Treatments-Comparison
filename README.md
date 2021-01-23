@@ -1,18 +1,11 @@
 R in the Lab: Two Treatments Comparison
 ================
 
-# Two-Treatments-Comparison
-
-R in the Lab: Two Treatments Comparison
-
 A brief R tutorial about how to perform a comparison analysis between
 two treatments data. This is performed through a t-Test, summarizing and
-graphing the data.
-
-Please, consult the pdf\_document.pdf or the github\_document.md in the
-document\_presentation folder to see an explanation about the data
-analysis. Note that I didn’t explain how I simulated the experimental
-data, but you can see the code on data\_simulation.R
+graphing the data.  
+Note that I didn’t explain how I simulated the experimental data, but
+you can see the code on data\_simulation.R
 
 If you have cloned this repository and want to run this analysis from
 scratch first run erase\_all\_outputs.R script and then run Main.R
