@@ -5,7 +5,7 @@ always_allow_html: true
 ---
 
 A brief R tutorial about how to perform a comparison analysis between two 
-treatments data. This is performed through a t-Test, summarizing and graphing the data.  
+treatments data. This is performed through a t-Test, summarizing and graphing the data.      
 Note that I didn't explain how I simulated the experimental data, but you can see the code on data_simulation.R  
 
 If you have cloned this repository and want to run this analysis from scratch 
