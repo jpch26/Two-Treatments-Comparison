@@ -3,11 +3,17 @@ R in the Lab: Two Treatments Comparison
 
 A brief R tutorial about how to perform a comparison analysis between
 two treatments data. This is performed through a t-Test, summarizing and
-graphing the data. Note that I didn’t explain how I simulated the
-experimental data, but you can see the code on data\_simulation.R  
+graphing the data.
+
+Note that I didn’t explain how I simulated the experimental data, but
+you can see the code on data\_simulation.R
+
 If you have cloned this repository and want to run this analysis from
 scratch first run erase\_all\_outputs.R script and then run Main.R
 script o whichever script you want.
+
+The image and README\_files folders contain images that I’ve used on
+this presentation.
 
 Juan Pablo Carreón Hidalgo
 
@@ -585,8 +591,7 @@ edit an analysis without depending on another one.
 
 If you save your tables as CSV files, when you edit them to look better,
 be sure to save it as XLS files or a related one, this way you won’t
-lose your editions. I’m using the `kableExtra` package to write this
-document, so I can obtain the next table:
+lose your editions. My final sumamry table looks like this:
 
 <table class=" lightable-classic-2" style='font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; margin-left: auto; margin-right: auto;'>
 
@@ -926,9 +931,10 @@ barpoint_graph
 
 ![](README_files/figure-gfm/bar_point_graph%20output-1.png)<!-- -->
 
-Maybe it doesn’t seem to be a real change, but in some cases bar plots
-will tend to hide the real distribution of your data. Click the next
-link to find more information:
+Comparing the bar and the point plots, maybe there doesn’t seem to be
+too much difference, but in some cases bar plots will tend to hide the
+real distribution of your data. Click the next link to find more
+information:
 [\#BarBarPlots\!](https://thenode.biologists.com/barbarplots/photo/)
 
 That’s it\! I think there is no better way to learn than learn by doing.
