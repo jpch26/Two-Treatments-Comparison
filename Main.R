@@ -38,11 +38,7 @@ source("analysis/bar_graph.R")
 source("analysis/point_graph.R")
 source("analysis/bar_point_graph.R")
 
-# 7 Source presentation document files. You need 'rmarkdown' package.
-
-rmarkdown::render("presentation_github.Rmd", output_file = "README")
-
-# 8 Session Info 
+# 7 Session Info 
 
 capture.output(sessionInfo(), file = "Session_Info.txt")
 
