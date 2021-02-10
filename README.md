@@ -12,8 +12,7 @@ If you have cloned this repository and want to run this analysis from
 scratch first run erase\_all\_outputs.R script and then run Main.R
 script o whichever script you want.
 
-The image and Two Treatments Comparison\_files folders contain images that 
-I’ve used on the presentation that you can read by click on: [Two Treatments Comparison](https://github.com/jpch26/Two-Treatments-Comparison/blob/main/Two%20Treatments%20Comparison.md) 
+The image folder contains images that I’ve used on the presentation that you can read by click on: [Two Treatments Comparison](https://github.com/jpch26/Two-Treatments-Comparison/blob/main/Two%20Treatments%20Comparison.md) 
 
 Juan Pablo Carreón Hidalgo
 
