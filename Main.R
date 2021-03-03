@@ -12,7 +12,7 @@ library(stringi) # To assign random strings on data simulation
 
 # 1 Simulating the data
 
-source("data/data_simulation.R")
+source("analysis/data_simulation.R")
 
 # 2 Student's t test assuming equal variances 
 

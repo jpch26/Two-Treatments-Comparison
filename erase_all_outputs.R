@@ -8,15 +8,10 @@
 session_info <- c("Session_Info.txt")
 
 # Data outputs file names from analysis scripts
-analysis_outputs <- c(
-  "f_test_output.txt",  "main_data.csv", "summary_table.csv", 
-  "t_test_output.txt","t_test_output2.txt"
-)
+analysis_outputs <- list.files("data")
 
 # Graph outputs file names from analysis scripts
-graph_outputs <- c(
-  "bargraph.jpeg", "barpointgraph.jpeg", "pointgraph.jpeg"
-)
+graph_outputs <- list.files("graphs")
 
 # Delete the specified files 
 file.remove(session_info)
