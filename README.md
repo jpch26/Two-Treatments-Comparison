@@ -12,7 +12,7 @@ If you have cloned this repository and want to run this analysis from
 scratch first run erase\_all\_outputs.R script and then run Main.R
 script o whichever script you want.
 
-You can read the presentation for this tutorial by click on: [Two Treatments Comparison](https://r-in-the-lab.netlify.app/2021/01/18/two-treatments-comparison/) 
+You can read the presentation for this tutorial by click on: [Two Treatments Comparison](https://r-inthelab.net/2021/01/18/two-treatments-comparison/) 
 
 Juan Pablo Carreón Hidalgo
 
